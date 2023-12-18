@@ -1,5 +1,5 @@
 - 👋 Hola soy @herminiocastro
-- 👀 Estoy interesado en aoreder programacion
+- 👀 Estoy interesado en apreder programacion
 - 🌱 Actualmente estoy aprediendo en Factoria F5
 - 💞️ Estoy interesado en colaborar en proyectos que me ayuden a aprender
 - 📫 Puedes contactactarme a traves de mi github herminiocastro
