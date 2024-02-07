@@ -1,11 +1,11 @@
-### ¡Hola, soy Herminio Castro! 👋
+ ![Header](github-header-image.png)
 
 Soy una persona comprometida, con iniciativa y un buen trabajador en equipo. Me encantaría formar parte de un equipo donde pueda contribuir con mis habilidades y conocimientos, y trabajar juntos para lograr grandes cosas.
 
 - 🌍 Ubicación: Oviedo/Asturias
 - ✉️ Contacto: [herminiocastroriveira@gmail.com](mailto:herminiocastroriveira@gmail.com)
 - 🧠 Actualmente me estoy formando en Factorya F5 Gijon
-- 🤝 Dispuesto a colaborar en proyectos que me ayuden a aprender desarrollo web
+- 🤝 Dispuesto a colaborar en proyectos que me ayuden a crecer y seguir aprendiendo.
 
 ### Skills
 
@@ -19,7 +19,6 @@ Soy una persona comprometida, con iniciativa y un buen trabajador en equipo. Me 
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" />](https://babeljs.io/)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />](https://vitejs.dev/)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />](https://nodejs.org/en/)
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" />](https://fastapi.tiangolo.com/)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />](https://www.postgresql.org/)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />](https://www.mysql.com/)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" />](https://aws.amazon.com)
