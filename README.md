@@ -2,7 +2,7 @@
 
 Soy una persona comprometida, con iniciativa y un buen trabajador en equipo. Me encantaría formar parte de un equipo donde pueda contribuir con mis habilidades y conocimientos, y trabajar juntos para lograr grandes cosas.
 
-- 🌍 Ubicación: Asturias/Oviedo
+- 🌍 Ubicación: Oviedo/Asturias
 - ✉️ Contacto: [herminiocastroriveira@gmail.com](mailto:herminiocastroriveira@gmail.com)
 - 🧠 Actualmente me estoy formando en Factorya F5 Gijon
 - 🤝 Dispuesto a colaborar en proyectos que me ayuden a aprender desarrollo web
@@ -36,7 +36,9 @@ Soy una persona comprometida, con iniciativa y un buen trabajador en equipo. Me 
 
 **Mis Estadísticas de GitHub:**
 
-![Estadísticas de GitHub de herminiocastro](https://github-readme-stats.vercel.app/api?username=herminiocastro&show_icons=true&hide=prs&title_color=22c55e&text_color=facc15&icon_color=84cc16&bg_color=1e3a8a&hide_border=true&show_icons=true)
+<a href="http://www.github.com/herminiocastro"><img src="https://github-readme-stats.vercel.app/api?username=herminiocastro&show_icons=true&hide=prs,&title_color=22c55e&text_color=facc15&icon_color=84cc16&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="herminiocastro's GitHub stats" /></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Estadísticas de racha de GitHub de herminiocastro](https://github-readme-streak-stats.herokuapp.com/?user=herminiocastro&stroke=facc15&background=1e3a8a&ring=22c55e&fire)
 .
