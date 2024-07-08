@@ -1,6 +1,6 @@
  ![Header](github-header-image.png)
 
-Soy una persona comprometida, con iniciativa y un buen trabajador en equipo. Me encantaría formar parte de un equipo donde pueda contribuir con mis habilidades y conocimientos, y trabajar juntos para lograr grandes cosas.
+Soy una persona comprometida, con iniciativa y me gusta trabajar en equipo. Me encantaría formar parte de un equipo donde pueda contribuir con mis habilidades y conocimientos, y trabajar juntos para lograr grandes cosas.
 
 - 🌍 Ubicación: Oviedo/Asturias
 - ✉️ Contacto: [herminiocastroriveira@gmail.com](mailto:herminiocastroriveira@gmail.com)
